@@ -24,6 +24,7 @@ public class ReverseString2 {
                 j--;
             }
         }
+        // new String(arr);
         System.out.print(Arrays.toString(arr));
 
 
